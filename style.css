@@ -1,0 +1,26 @@
+.slidecontainer {
+  width: 30%; /* Width of the outside container */
+  position: relative;
+  top: 345px;
+  margin: auto;
+}
+
+.slider {
+  -webkit-appearance: none; 
+  width: 95.25%;
+  height: 15px;
+  background: grey;
+  border-color: white;
+  outline: none;
+  border-width: 2px;
+  border-style: solid;
+  opacity: 1; 
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; 
+  width: 3px;
+  height: 40px;
+  background: rgb(85, 85, 85);
+  cursor: pointer;
+}

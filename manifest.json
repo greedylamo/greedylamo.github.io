@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "uniqueId": "7f5f2df2d3470f7d40427e47cc7d891f",
+    "title": "Studio Color Picker_main_asset",
+    "description": "",
+    "width": 1000,
+    "height": 600,
+    "events": {
+        "enabled": 0,
+        "list": {
+        }
+    },
+    "clicktags": {
+        "clickTAG": "https:\/\/www.whatevs.com\/"
+    },
+    "source": "index.html"
+}
