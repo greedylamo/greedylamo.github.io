@@ -21,6 +21,7 @@ html {
 
 .container {
   width: 100%;
+  margin-bottom: 100px !important;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -104,12 +105,10 @@ html {
 
 .col-1 {
   flex: 0 0 8.33333%;
-  max-width: 8.33333%;
 }
 
 .col-2 {
   flex: 0 0 16.66667%;
-  max-width: 16.66667%;
 }
 
 .col-3 {
@@ -119,42 +118,34 @@ html {
 
 .col-4 {
   flex: 0 0 33.33333%;
-  max-width: 33.33333%;
 }
 
 .col-5 {
   flex: 0 0 41.66667%;
-  max-width: 41.66667%;
 }
 
 .col-6 {
   flex: 0 0 50%;
-  max-width: 50%;
 }
 
 .col-7 {
   flex: 0 0 58.33333%;
-  max-width: 58.33333%;
 }
 
 .col-8 {
   flex: 0 0 66.66667%;
-  max-width: 66.66667%;
 }
 
 .col-9 {
   flex: 0 0 75%;
-  max-width: 75%;
 }
 
 .col-10 {
   flex: 0 0 83.33333%;
-  max-width: 83.33333%;
 }
 
 .col-11 {
   flex: 0 0 91.66667%;
-  max-width: 91.66667%;
 }
 
 .col-12 {

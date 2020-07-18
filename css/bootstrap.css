@@ -621,6 +621,7 @@ pre code {
 
 .container-fluid {
   width: 100%;
+  margin-bottom: 100px;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -629,6 +630,7 @@ pre code {
 
 .row {
   display: flex;
+  margin-top: 20px;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
@@ -5963,6 +5965,7 @@ button.bg-dark:focus {
 
 .justify-content-center {
   justify-content: center !important;
+  text-align:center;
 }
 
 .justify-content-between {
