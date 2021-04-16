@@ -777,7 +777,7 @@
 <!-- **** Width="4096px" Height="2048px" **** -->
 <scene name="pano30"
        heading="0"
-       thumburl="%FIRSTXML%/_360master_tualetas_30/thumbnail.jpg"
+       thumburl="%FIRSTXML%/master_tualetas_30/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -807,34 +807,34 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_360master_tualetas_30/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/master_tualetas_30/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="1536" tiledimageheight="1536">
-          <front url="_360master_tualetas_30/0/1/%v_%u.jpg"/>
-          <right url="_360master_tualetas_30/1/1/%v_%u.jpg"/>
-          <back  url="_360master_tualetas_30/2/1/%v_%u.jpg"/>
-          <left  url="_360master_tualetas_30/3/1/%v_%u.jpg"/>
-          <up    url="_360master_tualetas_30/4/1/%v_%u.jpg"/>
-          <down  url="_360master_tualetas_30/5/1/%v_%u.jpg"/>
+          <front url="master_tualetas_30/0/1/%v_%u.jpg"/>
+          <right url="master_tualetas_30/1/1/%v_%u.jpg"/>
+          <back  url="master_tualetas_30/2/1/%v_%u.jpg"/>
+          <left  url="master_tualetas_30/3/1/%v_%u.jpg"/>
+          <up    url="master_tualetas_30/4/1/%v_%u.jpg"/>
+          <down  url="master_tualetas_30/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_360master_tualetas_30/0/0/%v_%u.jpg"/>
-          <right url="_360master_tualetas_30/1/0/%v_%u.jpg"/>
-          <back  url="_360master_tualetas_30/2/0/%v_%u.jpg"/>
-          <left  url="_360master_tualetas_30/3/0/%v_%u.jpg"/>
-          <up    url="_360master_tualetas_30/4/0/%v_%u.jpg"/>
-          <down  url="_360master_tualetas_30/5/0/%v_%u.jpg"/>
+          <front url="master_tualetas_30/0/0/%v_%u.jpg"/>
+          <right url="master_tualetas_30/1/0/%v_%u.jpg"/>
+          <back  url="master_tualetas_30/2/0/%v_%u.jpg"/>
+          <left  url="master_tualetas_30/3/0/%v_%u.jpg"/>
+          <up    url="master_tualetas_30/4/0/%v_%u.jpg"/>
+          <down  url="master_tualetas_30/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_360master_tualetas_30/mobile/0.jpg"/>
-        <right url="_360master_tualetas_30/mobile/1.jpg"/>
-        <back  url="_360master_tualetas_30/mobile/2.jpg"/>
-        <left  url="_360master_tualetas_30/mobile/3.jpg"/>
-        <up    url="_360master_tualetas_30/mobile/4.jpg"/>
-        <down  url="_360master_tualetas_30/mobile/5.jpg"/>
+        <front url="master_tualetas_30/mobile/0.jpg"/>
+        <right url="master_tualetas_30/mobile/1.jpg"/>
+        <back  url="master_tualetas_30/mobile/2.jpg"/>
+        <left  url="master_tualetas_30/mobile/3.jpg"/>
+        <up    url="master_tualetas_30/mobile/4.jpg"/>
+        <down  url="master_tualetas_30/mobile/5.jpg"/>
       </image>
 
 
@@ -1080,7 +1080,7 @@
 <!-- **** Width="4096px" Height="2048px" **** -->
 <scene name="pano34"
        heading="0"
-       thumburl="%FIRSTXML%/_360vip_tualeto_34/thumbnail.jpg"
+       thumburl="%FIRSTXML%/vip_tualeto_34/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        haspolygons="false"
@@ -1110,34 +1110,34 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_360vip_tualeto_34/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/vip_tualeto_34/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
 
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="1536" tiledimageheight="1536">
-          <front url="_360vip_tualeto_34/0/1/%v_%u.jpg"/>
-          <right url="_360vip_tualeto_34/1/1/%v_%u.jpg"/>
-          <back  url="_360vip_tualeto_34/2/1/%v_%u.jpg"/>
-          <left  url="_360vip_tualeto_34/3/1/%v_%u.jpg"/>
-          <up    url="_360vip_tualeto_34/4/1/%v_%u.jpg"/>
-          <down  url="_360vip_tualeto_34/5/1/%v_%u.jpg"/>
+          <front url="vip_tualeto_34/0/1/%v_%u.jpg"/>
+          <right url="vip_tualeto_34/1/1/%v_%u.jpg"/>
+          <back  url="vip_tualeto_34/2/1/%v_%u.jpg"/>
+          <left  url="vip_tualeto_34/3/1/%v_%u.jpg"/>
+          <up    url="vip_tualeto_34/4/1/%v_%u.jpg"/>
+          <down  url="vip_tualeto_34/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_360vip_tualeto_34/0/0/%v_%u.jpg"/>
-          <right url="_360vip_tualeto_34/1/0/%v_%u.jpg"/>
-          <back  url="_360vip_tualeto_34/2/0/%v_%u.jpg"/>
-          <left  url="_360vip_tualeto_34/3/0/%v_%u.jpg"/>
-          <up    url="_360vip_tualeto_34/4/0/%v_%u.jpg"/>
-          <down  url="_360vip_tualeto_34/5/0/%v_%u.jpg"/>
+          <front url="vip_tualeto_34/0/0/%v_%u.jpg"/>
+          <right url="vip_tualeto_34/1/0/%v_%u.jpg"/>
+          <back  url="vip_tualeto_34/2/0/%v_%u.jpg"/>
+          <left  url="vip_tualeto_34/3/0/%v_%u.jpg"/>
+          <up    url="vip_tualeto_34/4/0/%v_%u.jpg"/>
+          <down  url="vip_tualeto_34/5/0/%v_%u.jpg"/>
       </level>
     </image>
       <image type="CUBE" devices="androidstock.and.no-webgl">
-        <front url="_360vip_tualeto_34/mobile/0.jpg"/>
-        <right url="_360vip_tualeto_34/mobile/1.jpg"/>
-        <back  url="_360vip_tualeto_34/mobile/2.jpg"/>
-        <left  url="_360vip_tualeto_34/mobile/3.jpg"/>
-        <up    url="_360vip_tualeto_34/mobile/4.jpg"/>
-        <down  url="_360vip_tualeto_34/mobile/5.jpg"/>
+        <front url="vip_tualeto_34/mobile/0.jpg"/>
+        <right url="vip_tualeto_34/mobile/1.jpg"/>
+        <back  url="vip_tualeto_34/mobile/2.jpg"/>
+        <left  url="vip_tualeto_34/mobile/3.jpg"/>
+        <up    url="vip_tualeto_34/mobile/4.jpg"/>
+        <down  url="vip_tualeto_34/mobile/5.jpg"/>
       </image>
 
 
